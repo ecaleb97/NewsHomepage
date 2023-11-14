@@ -33,7 +33,7 @@ export const gameNews = [
     title: 'Reviving Retro PCs',
     content: `What happens when old PCs are given
     modern upgrades?`,
-    imgSrc: './src/assets/images/image-retro-pcs.jpg',
+    imgSrc: '../assets/images/image-retro-pcs.jpg',
     alt: 'Retro PCs'
   },
   {
@@ -41,7 +41,7 @@ export const gameNews = [
     title: 'Top 10 Laptops of 2022',
     content: `Our best picks for various needs and
     budgets.`,
-    imgSrc: './src/assets/images/image-top-laptops.jpg',
+    imgSrc: '../assets/images/image-top-laptops.jpg',
     alt: 'Laptop Keyboard'
   },
   {
@@ -49,7 +49,7 @@ export const gameNews = [
     title: 'The Growth of Gaming',
     content: `How the pandemic has sparked fresh
     opportunities.`,
-    imgSrc: './src/assets/images/image-gaming-growth.jpg',
+    imgSrc: '../assets/images/image-gaming-growth.jpg',
     alt: 'PS5 Controller'
   }
 ]
